@@ -12,7 +12,7 @@ sudo tar -xzf jjetbrains-toolbox-1.25.12627.tar.gz -C /opt
 | ---- | -------------------- |
 | 1    | Band Name Generator. |
 | 2    | Tip Calculator       |
-|      |                      |
+| 3    | Treasure Island      |
 |      |                      |
 |      |                      |
 |      |                      |
